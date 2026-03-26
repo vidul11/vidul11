@@ -1,0 +1,10 @@
+<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="160" fill="#0d0d0d"/>
+  <rect x="0" y="0" width="5" height="160" fill="#e10600"/>
+  <rect x="0" y="148" width="680" height="3" fill="#1a1a1a"/>
+  <text x="38" y="95" font-family="'Courier New', monospace" font-size="52" fill="#ffffff" font-weight="700" letter-spacing="-1">VIDUL</text>
+  <text x="558" y="78" font-family="'Courier New', monospace" font-size="48" fill="#1a1a1a" font-weight="700" text-anchor="end">#11</text>
+  <text x="560" y="78" font-family="'Courier New', monospace" font-size="48" fill="#e10600" font-weight="700" text-anchor="end">#11</text>
+  <line x1="40" y1="112" x2="640" y2="112" stroke="#1f1f1f" stroke-width="1"/>
+  <text x="40" y="134" font-family="'Courier New', monospace" font-size="12" fill="#888888" letter-spacing="2">Engineer by training, builder by instinct — optimizing models like lap times.</text>
+</svg>
