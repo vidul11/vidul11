@@ -4,6 +4,9 @@
 
 > Engineer by training, builder by instinct — optimizing models like an F1 racer chasing lap times.
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 ---
 
 ## Projects
@@ -12,6 +15,7 @@
 - 👁️ **[VQA · CLIP Local Enhancement](https://github.com/vidul11/CS_228_CLIP_LOCAL_FEATURE_ENHANCEMENT)** — Dual-encoder architecture combining CLIP global semantics with ViT local features
 - 🧠 **[Attention-Based Distillation](https://github.com/SiddhartaDutta/Attention-Based-Distillation)** — ViT → CNN knowledge distillation with dynamic layer weighting via KL divergence
 - 🖼️ **[Image Captioning · CNN + RNN](https://github.com/vidul11/Image_Captioning_using_CNN_and_RNN)** — VGG16 encoder + LSTM decoder with soft/hard attention mechanisms
+- 🚀 **[ML Inference · Jetson Nano](https://github.com/vidul11/ml-inference-jetson-nano)** — LeNet face recognition with cuDNN/cuBLAS on Jetson Nano via ROS2
 - 💬 **[Sentiment Analysis · Course Reviews](https://github.com/vidul11/Sentiment_Analysis_of_Course_Reviews)** — NLP pipeline for student feedback classification
 - 🔍 **[GON · Anomaly Detection](https://github.com/vidul11/GON_for_Image_Anomaly_Detection)** — Generative Orthonormal Networks for unsupervised image anomaly detection
 - 🤖 **[GPT-4o Bot](https://github.com/vidul11/GPT-4o-bot)** — Streamlit chatbot with reusable GPT-4o prompt workflows
