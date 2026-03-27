@@ -8,7 +8,7 @@
 
 ## Projects
 
-- 🦾 **[Embodied AI · Object Goal Navigation](https://github.com/TRIGGERONE)** — Sparse-inference VLM reasoning framework at TASL Lab, built with PyTorch + Habitat
+
 - 👁️ **[VQA · CLIP Local Enhancement](https://github.com/vidul11/CS_228_CLIP_LOCAL_FEATURE_ENHANCEMENT)** — Dual-encoder architecture combining CLIP global semantics with ViT local features
 - 🧠 **[Attention-Based Distillation](https://github.com/SiddhartaDutta/Attention-Based-Distillation)** — ViT → CNN knowledge distillation with dynamic layer weighting via KL divergence
 - 🖼️ **[Image Captioning · CNN + RNN](https://github.com/vidul11/Image_Captioning_using_CNN_and_RNN)** — VGG16 encoder + LSTM decoder with soft/hard attention mechanisms
