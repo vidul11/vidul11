@@ -20,12 +20,6 @@
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidul11&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e10600&text_color=ffffff&icon_color=e10600&count_private=true)
-
----
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/-vidul11.github.io-000000?style=flat-square&logo=vercel&logoColor=white)](https://vidul11.github.io)
