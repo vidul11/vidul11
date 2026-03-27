@@ -1,6 +1,8 @@
-![header](https://raw.githubusercontent.com/vidul11/vidul11/main/header.svg)
+# Hi, I'm Vidul 👋 &nbsp; `#11`
 
 📍 **Los Angeles** | 🤖 **ML Engineer** | 💼 **TASL @ UC Riverside**
+
+> Engineer by training, builder by instinct — optimizing models like an F1 racer chasing lap times.
 
 ---
 
